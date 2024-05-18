@@ -11,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhisikta-sengupta-82601b263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhisikta-sengupta-82601b263/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/abhisikta_sengupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhisikta_sengupta/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sabhisik31au/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sabhisik31au/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhisikta-sengupta-82601b263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisikta-sengupta-82601b263/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/abhisikta-sengupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhisikta-sengupta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhisikta_sengupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisikta_sengupta" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sabhisik31au/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sabhisik31au/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
